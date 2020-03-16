@@ -12,7 +12,6 @@
         </ul>
       </div>
       <div class="card-action">
-     
       </div>
     </div>
   </div>
